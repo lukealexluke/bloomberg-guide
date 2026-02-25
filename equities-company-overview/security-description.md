@@ -7,13 +7,13 @@ Red Toolbar options:
 - Input field: Input the name of the security you want to examine (e.g. AAPL US Equity, PSKY US Equity, SGE LN Equity)
 - Report: For equities, you also have the option to generate a report, which will create a PDF of the information available on the Security Description page.
 
-![Image of DES Page](images\DES-1.png)
+![Image of DES Page](images/DES-1.png)
 
 ## Profile
 
 This contains a general overview of information on the security.
 
-![Image of DES Page, Profile section](images\DES-2.png)
+![Image of DES Page, Profile section](images/DES-2.png)
 
 1. Name and Classification: The top section of DES contains the security's name, their FIGI (Financial Instrument Global Identifier) number, and their BICS classification.
 2. Extended Description: Courtesy of Hoover's Inc, this section contains a longer form description of the security which can be clicked on and read for more information.
