@@ -4,6 +4,9 @@ site_url: https://lukealexluke.github.io/bloomberg-guide/
 repo_url: https://github.com/lukealexluke/bloomberg-guide
 theme:
   name: material
+  logo: assets/images/uwig.png
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Home: index.md
   - Equities:
