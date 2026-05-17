@@ -74,25 +74,22 @@ This area lists key leadership such as the CEO and CFO.
 
 This section indicates whether the company also trades through depository receipts.
 
-## Other DES Sections
+## Issue Info
 
-### Issue Info
+This section is a stub currently.
 
-This guide does not yet document the `Issue Info` panel in detail.
+## Ratios
 
-### Ratios
+This section is a stub currently.
 
-This guide does not yet document the `Ratios` panel in detail.
+## Revenue & EPS
 
-### Revenue & EPS
+This section is a stub currently.
 
-This guide does not yet document the `Revenue & EPS` panel in detail.
+## ESG
 
-### ESG
+This section is a stub currently.
 
-This guide does not yet document the `ESG` panel in detail.
-
-## Related Pages
+#### Related Functions
 
 - [CN - Company News](company-news.md)
-- [CF - Company Filings](company-filings.md)

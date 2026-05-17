@@ -14,6 +14,18 @@ nav:
       - Company Overview:
           - Section Overview: equities/company-overview/index.md
           - DES - Security Description: equities/company-overview/security-description.md
+          - CN - Company News: equities/company-overview/company-news.md
+          - DS RES - Company Research: equities/company-overview/company-research.md
+          - FA - Financial Analysis: equities/company-overview/financial-analysis.md
+          - BICO - Bloomberg Intelligence Primer: equities/company-overview/bloomberg-intelligence-primer.md
+      - Company Analysis:
+          - Section Overview: equities/company-analysis/index.md
+          - ANR - Analyst Recommendations: equities/company-analysis/analyst-recommendations.md
+          - CACS - Corporate Actions: equities/company-analysis/corporate-actions.md
+          - DSCO - Company Documents & Search: equities/company-analysis/company-documents-and-search.md
+          - ESG - ESG Analysis: equities/company-analysis/ESG-analysis.md
+          - OWN - Security Ownership: equities/company-analysis/security-ownership.md
+          - SPLC - Supply Chain Analysis: equities/company-analysis/supply-chain-analysis.md
 markdown_extensions:
   - tables
   - toc:
