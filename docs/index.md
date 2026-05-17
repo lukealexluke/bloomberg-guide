@@ -6,7 +6,7 @@ This site is a student-built guide to using the Bloomberg Terminal, with a focus
 
 Originally prepared for the UW Investment Group by Luke Alexander, Gabe Arroyo, Evis Tao, Elhadj Toure.
 
-Last updated: February 2026
+Last updated: May 17th, 2026
 
 Because this guide was written around a university Bloomberg Terminal setup, some functions or entitlements may differ from a full professional subscription.
 
