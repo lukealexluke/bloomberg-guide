@@ -7,7 +7,7 @@ This section currently focuses on the first screen you would open when getting o
 Use these pages to confirm you are looking at the right security and build a first-pass view of the company.
 
 - [Company Overview Section](company-overview/index.md)
-- [DES - Security Description](company-overview/security-description.md)
+- [Company Analysis Section](company-analysis/index.md)
 
 ## Current Focus
 

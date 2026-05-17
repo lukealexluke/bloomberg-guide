@@ -4,7 +4,7 @@ This site is a student-built guide to using the Bloomberg Terminal, with a focus
 
 ## About This Guide
 
-Originally prepared for the UW Investment Group by Luke Alexander.
+Originally prepared for the UW Investment Group by Luke Alexander, Gabe Arroyo, Evis Tao, Elhadj Toure.
 
 Last updated: February 2026
 
@@ -14,15 +14,11 @@ Because this guide was written around a university Bloomberg Terminal setup, som
 
 ## Current Coverage
 
-The site is currently focused on a streamlined equities path.
+The guide is currently focused on U.S. large-cap equities, here are some useful pages to check:
 
 - [Equities Overview](equities/index.md)
-- [Company Overview](equities/company-overview/index.md)
 - [DES - Security Description](equities/company-overview/security-description.md)
-
-## Suggested Starting Point
-
-Start with [DES - Security Description](equities/company-overview/security-description.md) to confirm the security, review the company profile, and get the key market context in one place.
+- [FA - Financial Analysis](equities/company-overview/financial-analysis.md)
 
 ## What's In Scope
 

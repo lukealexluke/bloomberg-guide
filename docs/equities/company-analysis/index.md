@@ -4,16 +4,13 @@ These pages support deeper equity research once you already have the basic compa
 
 ## Pages In This Section
 
-- [ANR - Analyst Recommendations](analyst-recommendations.md): Consensus ratings, price targets, and estimate revisions.
-- [CACS - Corporate Actions](corporate-actions.md): Dividends, splits, spin-offs, and other corporate events.
-- [DSCO - Company Documents & Search](company-documents-and-search.md): Filings, transcripts, and document search.
-- [ESG - ESG Analysis](ESG-analysis.md): Environmental, social, and governance scores and risk.
-- [OWN - Security Ownership](security-ownership.md): Holder mix and ownership context.
+- DSCO - Company Documents & Search: Filings, transcripts, and document search.
+- ANR - Analyst Recommendations: Consensus ratings, price targets, and estimate revisions.
+- HDS - Security Ownership: Holder mix and ownership context.
+- ESG - ESG Analysis: Environmental, social, and governance scores and risk.
 - [SPLC - Supply Chain Analysis](supply-chain-analysis.md): Supplier and customer network, geographic and commodity exposure.
+- CACS - Corporate Actions: Dividends, splits, spin-offs, and other corporate events.
 
 ## Suggested Flow
 
-1. Review [ANR - Analyst Recommendations](analyst-recommendations.md) for consensus view and estimate trends.
-2. Check [OWN - Security Ownership](security-ownership.md) for shareholder context.
-3. Use [SPLC - Supply Chain Analysis](supply-chain-analysis.md) to assess supply chain risk and exposure.
-4. Review [ESG - ESG Analysis](ESG-analysis.md) when sustainability factors are relevant to the thesis.
+This section is a stub currently.
